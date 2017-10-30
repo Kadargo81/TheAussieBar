@@ -1,0 +1,23 @@
+.navbar-default {
+  background-color: #263c54;
+  }
+
+.navbar {
+  border: 0 solid transparent;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.carousel{
+    background: #2f4357;
+    margin-top: 0px;
+}
+.carousel .item{
+    min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+.bs-example{
+	margin: 0px;
+}
